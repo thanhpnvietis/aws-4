@@ -1,3 +1,4 @@
+Phần 1
 1 (A)
 2 (C,E)
 3 (B)
@@ -16,3 +17,10 @@
 16 (AB)
 17 (B)
 
+hần 2
+
+1 https://tinyurl.com/2nfrdkcw
+2 https://tinyurl.com/2oqlrf7m
+3 
+    - https://tinyurl.com/2hgpg9yq
+    - https://tinyurl.com/2nk78c44
